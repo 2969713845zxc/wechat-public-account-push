@@ -11,7 +11,7 @@ const USER_CONFIG = {
   APP_ID: 'wxa57be994fe6193bc',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: 'db3be378dca815e7b94f93a2949b47c0',
+  APP_SECRET: 'ba330372e7a63bbbb0d95ff4a855e367',
 
   PROVINCE: '四川',
   CITY: '成都',
@@ -29,7 +29,7 @@ const USER_CONFIG = {
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
-          type: '*生日', name: '宝贝', year: '1996', date: '09-09',
+          type: '*生日', name: '张三', year: '1996', date: '09-09',
         },
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         {
@@ -55,7 +55,7 @@ const USER_CONFIG = {
 
   CALLBACK_USERS: [
     {
-      name: '自己',
+      name: 'Pᴀsᴛ꯭ᴛ꯭ɪ꯭ᴍ꯭ᴇ꯭s꯭ .',
       // 使用微信测试号：自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'ol0Sa6BeBGx3bf_nO0UamOxHvoQg',
     }
